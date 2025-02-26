@@ -8,14 +8,14 @@
 
       <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
         <li><a href="/" class="nav-link px-2 link-secondary">Home</a></li>
-        <li><a href="#" class="nav-link px-2">Features</a></li>
-        <li><a href="#" class="nav-link px-2">FAQs</a></li>
+        <li><a href="/features" class="nav-link px-2">Features</a></li>
+        <li><a href="/faqs" class="nav-link px-2">FAQs</a></li>
         <li><a href="/about" class="nav-link px-2">About</a></li>
       </ul>
 
       <div class="col-md-3 text-end">
         <a href="/auth/google" type="button" class="btn btn-outline-primary me-2">Sign in</a>
-        <a href="/auth/google" type="button" class="btn btn-primary">Sign-up</a>
+        <a href="/auth/google" type="button" class="btn btn-primary">Sign up</a>
       </div>
     </header>
   </div>
