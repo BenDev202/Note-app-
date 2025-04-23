@@ -112,3 +112,27 @@
     text-align: center;
     color: #fff;
   }
+
+  .accordion-item {
+    background-color: var(--bs-primary-rgb); /* Dark Blue */
+    color: white;
+  }
+  
+  .accordion-button {
+    background-color: var(--bs-primary-rgb);
+    color: white;
+  }
+  
+  .accordion-button:not(.collapsed) {
+    background-color: var(--bs-primary-rgb);
+    color: white;
+  }
+  
+  .accordion-body {
+    background-color: var(--bs-primary-rgb);
+    color: white;
+  }
+  
+  .accordion {
+    padding: 50px;
+  }
